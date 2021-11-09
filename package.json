@@ -17,9 +17,6 @@
     "url": "https://github.com/thoughts3rased/NetPong-Client/issues"
   },
   "homepage": "https://github.com/thoughts3rased/NetPong-Client#readme",
-  "dependencies": {
-    "craftyjs": "^0.9.0"
-  },
   "devDependencies": {
     "electron": "^15.3.1"
   }
